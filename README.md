@@ -8,7 +8,8 @@
 
 # Flutter Carousel Slider
 
-![Cover](https://user-i![Cover](https://user-images.githubusercontent.com/42466886/187927609-8dbb4f75-929b-4e97-8642-e0e9b3ed3ca0.png)
+![Cover](https://user-images.githubusercontent.com/42466886/187927686-c582cf4d-7b55-40de-9c0a-2aab823664d0.png)
+
 
 
 -------
