@@ -1,0 +1,45 @@
+name: carousel_slider
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  equatable: ^2.0.5
+  fimber: ^0.6.6
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_svg: ^1.0.3
+  flutter_svg_provider: ^1.0.3
+  get_it: ^7.2.0
+  rxdart: ^0.27.5
+  sizer: ^2.0.15
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/sliders/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+        - asset: assets/fonts/Poppins-Regular.ttf
+    - family: Noto Sans
+      fonts:
+        - asset: assets/fonts/NotoSans-Regular.ttf
+        - asset: assets/fonts/NotoSans-Bold.ttf
+          weight: 700
